@@ -1,3 +1,2 @@
 1) MinimumTime
 2) SetMatrixZero
-3) Pascals Triange
